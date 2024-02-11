@@ -1,4 +1,4 @@
-from paciente import Hospital
+from funciones import Hospital
 
 print("Nombre del estudiante: José Fernando González Ortiz")
 print("Código: T00068395")
